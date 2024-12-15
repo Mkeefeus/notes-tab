@@ -69,3 +69,4 @@ Clicking "Save" in the bottom right will save the new version, which means that 
 Does something, probably
 
 ## Changelog
+How to add tab: https://github.com/p4535992/foundryvtt-downtime-dnd5e/blob/cfdd3d2b686e63a6e867863402cfa27e95c86fe7/src/scripts/5e-training.js#L47C1-L57C33
